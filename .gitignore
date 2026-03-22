@@ -14,9 +14,9 @@ venv/
 ENV/
 
 # Data files (Ignore dados grandes, mantenha scripts de processamento)
-# *.csv
-# *.xlsx
-# *.tsf
+*.csv
+*.xlsx
+*.tsf
 
 # OS generated files
 .DS_Store
